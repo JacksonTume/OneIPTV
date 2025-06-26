@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+dist/
+
+*storybook.log
+
+# Tizen Build
+/tizen
